@@ -1,0 +1,19 @@
+
+Moon_Phaser is a program designed to test and demonstrate an astronomy subutility for displaying lunar phases.  The subutility is intended to be built into an astronomy program to display the phase of the moon from its computed phase angle. It can be adapted to other uses, such as to display the phases of Mercury or Venus, since the principle is the same.
+
+
+The subutility is called:
+
+DRAW_MOON_PHASE()
+
+It requires the phase angle in degrees as an input argument.
+
+To visualize the phases, the primary lunar phase angles in degrees are:
+
+0   = New Moon
+90  = First Quarter
+180 = Full Moon
+270 = Last Quarter
+
+The program that demonstrates its use is vigorously commented.
+
